@@ -1,6 +1,9 @@
 # React Movies
+Happy Halloween! 
 
-## Available Scripts
+See a demo at [https://horror-movies-at.web.app](https://horror-movies-at.web.app)
+
+## To run locally
 
 In the project directory, you can run:
 
