@@ -3,7 +3,7 @@
 function Header() {
     return (
         <header>
-            <h1>React Movies</h1>
+            <h1>Horror Movies</h1>
         </header>
     )
 }
